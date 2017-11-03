@@ -1,5 +1,5 @@
 # Project title
-Here is a short description of this project.
+Here is a short description of this project. Should there be some badges here? [Add them](https://shields.io/).
 ## License
 This project is licensed under Apache 2.0.
 ## Contributing
